@@ -1,0 +1,16 @@
+{
+  "roots": [
+    {
+      "key": "qkdgjc1sr3z7kqzztw6hc37",
+      "title": "Root",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": []
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "qkdgjc1sr3z7kqzztw6hc37": null
+  }
+}
