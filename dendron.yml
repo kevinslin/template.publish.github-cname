@@ -93,7 +93,6 @@ publishing:
         editLinkText: Edit this page on GitHub
         editBranch: main
         editViewMode: tree
-        cname: cname.dendron.so
     enableSiteLastModified: true
     enableFrontmatterTags: true
     enableHashesForFMTags: false
